@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://ahshahche.joy-lang.org/sitemap.xml
